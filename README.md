@@ -1,30 +1,28 @@
-## Welcome to GitHub Pages
+# Black Man Run
+This game is the game of the new ager. This game is perfect if you like gaming. To run and play my game all you need is Python 3.4.3 and the corrisponding pygame.
 
-You can use the [editor on GitHub](https://github.com/queenk15/Black-Man-UN/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How to play the game
 
-### Markdown
+Using the arrow keys race through my game.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- up arrow: jump
+- left /right arrow: moving forward and backward
+- down arrow: nothing
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Coming Soon
 
-- Bulleted
-- List
+In my next version of this game I will adding:
 
-1. Numbered
-2. List
+1. A double jump
+2. New worlds
+3. Making Enemies die
+4. Making it more user friendly
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+![Black Man Run cover art](/images/logo.png)
+Format: ![Alt Text](url)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
