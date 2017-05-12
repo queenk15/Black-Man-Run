@@ -21,7 +21,7 @@ In my next version of this game I will adding:
 4. Making it more user friendly
 
 
-![Black Man Run cover art](/images/logo.png)
+![Black Man Run cover art](Black%20man%20run%20cover%20art.png)
 Format: ![Alt Text](url)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
