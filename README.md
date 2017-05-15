@@ -22,3 +22,4 @@ In my next version of this game I will adding:
 
 
 ![Black Man Run cover art](Black%20man%20run%20cover%20art.png)
+![Black man run Game play](Blackmanrunpic.jpg)
