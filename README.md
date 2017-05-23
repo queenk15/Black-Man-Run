@@ -4,21 +4,32 @@ This game is the game of the new ager. This game is perfect if you like gaming. 
 
 ## How to play the game
 
-Using the arrow keys race through my game.
-
+Using the keys race through my game:
 - up arrow: jump
 - left /right arrow: moving forward and backward
-- down arrow: nothing
+- down arrow: nothing yet
+- j is the a modifer key that makes you jump higher
+- s turns off the music 
+- m turns off the music
+- p pauses the game
 
+The enemies:
+1. A little brown man that moves until it hits something
+2. A character that looks like it is poppinout of the ground moves back and forth on platforms
 
-### Coming Soon
+The powerups/ things to earn:
+- Hearts give you an extra heart
+- The jar of donuts give you an extra life
+
+The goal of the game:
+- To have fun and get to last achievement which is HOPE!
+
+## Coming Soon
 
 In my next version of this game I will adding:
 
-1. A double jump
-2. New worlds
-3. Making Enemies die
-4. Making it more user friendly
+1. New worlds
+2. Making it more user friendly
 
 
 ![Black Man Run cover art](Black%20man%20run%20cover%20art.png)
