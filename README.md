@@ -20,6 +20,7 @@ The enemies:
 The powerups/ things to earn:
 - Hearts give you an extra heart
 - The jar of donuts give you an extra life
+- Coins give you 5 points
 
 The goal of the game:
 - To have fun and get to last achievement which is HOPE!
