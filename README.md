@@ -25,6 +25,8 @@ The powerups/ things to earn:
 The goal of the game:
 - To have fun and get to last achievement which is HOPE!
 
+![Black Man Run cover art](Blackmanrunpic.jpg)
+
 ## Coming Soon
 
 In my next version of this game I will adding:
