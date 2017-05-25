@@ -1,7 +1,7 @@
 # Black Man Run
 This game is the game of the new ager. This game is perfect if you like gaming. To run and play my game all you need is Python 3.4.3 and the corrisponding pygame.
 Download the game here
-[Download the game here](https://www.google.com)
+[Download the game here](https://github.com/queenk15/Black-Man-UN/archive/master.zip)
 
 
 ## How to play the game
