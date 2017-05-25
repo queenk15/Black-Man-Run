@@ -26,6 +26,7 @@ The goal of the game:
 - To have fun and get to last achievement which is HOPE!
 
 ![Black Man Run actual game play 1](Blackmanrunpic.JPG)
+![Black Man Run actual game play 2](blackmanrungameplay.JPG)
 
 ## Coming Soon
 
