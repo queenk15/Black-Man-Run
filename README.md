@@ -11,7 +11,7 @@ Using the keys race through my game:
 - left /right arrow: moving forward and backward
 - down arrow: nothing yet
 - j is the a modifer key that makes you jump higher
-- s turns off the music 
+- s turns off the sound 
 - m turns off the music
 - p pauses the game
 
