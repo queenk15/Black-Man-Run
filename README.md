@@ -24,7 +24,7 @@ The powerups/ things to earn:
 - The jar of donuts give you an extra life plus one point
 - Coins give you 5 points
 - The potion takes away 1 life and 5 points
-- The jar of peppermints gives you 10 points
+- The jar of peppermints gives you 15 points
 
 Obstacles:
 - There are holes in the game that you can fall through 
